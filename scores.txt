@@ -1,0 +1,10 @@
+Duke
+10
+Gordon
+8
+Doom
+6
+Blazkowicz
+4
+Quake
+3
